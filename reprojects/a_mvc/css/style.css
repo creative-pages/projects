@@ -1,0 +1,16 @@
+a,
+a:hover,
+a:focus {
+	text-decoration: none;
+}
+ul li {
+	float: left;
+}
+
+
+.main {
+	min-height: 469px;
+}
+.cursor-pointer {
+	cursor: pointer;
+}

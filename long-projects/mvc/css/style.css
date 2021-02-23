@@ -1,0 +1,19 @@
+a,
+a:hover,
+a:focus {
+	text-decoration: none;
+}
+ul li {
+	float: left;
+}
+
+
+.main {
+	border: 2px solid blue;
+	height: 900px;
+	width: 100%;
+}
+.admin_content {
+	min-height: 428px;
+	border: 2px solid blue;
+}

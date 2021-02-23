@@ -1,0 +1,82 @@
+/* default */
+	.headersection {
+		background: #ca932f none repeat scroll 0 0;
+	}
+	.icon a {
+		background: #a56e0a none repeat scroll 0 0;
+	}
+	.searchbtn input[type="submit"] {
+	    border: 1px solid #9d6602;
+	    background: #a56e0a none repeat scroll 0 0;
+	}
+	.searchbtn input[type="text"] {
+	    border: 1px solid #a56e0a;
+	    background: #a56e0a;
+	}
+	input[type="text"]::placeholder {
+		color: white;
+	}
+	.navsection {
+	    background: none repeat scroll 0 0 #a56e0a;
+	}
+	.navsection ul li:first-child {
+	    border-left: 0px solid #a56e0a;
+	}
+	.navsection ul li {
+	    border-left: 1px solid #a56e0a;
+	    border-right: 1px solid #ca932f;
+	}
+	.maincontent {
+	    background: #a56e0a none repeat scroll 0 0;
+	    border: 1px solid #ca932f;
+	    color: white;
+	}
+	.samepost h2, .about h2 {
+	    border-bottom: 2px solid #ca932f;
+	    color: #ffff;
+	}
+	.samepost h2 a {
+	    color: #ffff;
+	    text-decoration: none;
+	}
+	.samepost img {
+	    border: 1px solid #ca932f;
+	}
+	.readmore a {
+	    border: 1px solid #ca932f;
+	    color: #ca932f;
+	}
+	.readmore a:hover {
+		color: #a56e0a;
+	}
+	.samesidebar h2 {
+	    background: #ca932f none repeat scroll 0 0;
+	    border-bottom: 2px solid #a56e0a;
+	    color: #ffff;
+	}
+	.sidebar {
+	    background: #0080CC none repeat scroll 0 0;
+	}
+	.samesidebar ul li {
+	    border-bottom: 1px dashed #ca932f;
+	}
+	.samesidebar ul li a {
+	    color: #ffff;
+	}
+	.popular h3 a {
+	    color: #ffff;
+	}
+	.popular div {
+		color: #ffff;
+	}
+	.footersection {
+	    background: #ca932f;
+	    color: #ffff;
+	}
+	.footermenu ul li a {
+	    color: #a56e0a;
+	}
+	input[type="submit"] {
+	    background: #a56e0a none repeat scroll 0 0;
+	    border: 1px solid #a56e0a;
+	}

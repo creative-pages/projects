@@ -1,0 +1,87 @@
+/* red */
+	.headersection {
+		background: #FF0000 none repeat scroll 0 0;
+	}
+	.icon a {
+    	background: #FF0090 none repeat scroll 0 0;
+	}
+	.searchbtn input[type="submit"] {
+	    border: 1px solid #FF0090;
+	    background: #FF0090 none repeat scroll 0 0;
+	}
+	.searchbtn input[type="submit"]:hover {
+	    background: #ffff none repeat scroll 0 0;
+	    border: 1px solid #FF0090;
+	    color: #FF0090;
+	}
+	.searchbtn input[type="text"] {
+	    border: 1px solid #FF0090;
+	    background: #FF0090;
+	}
+	input[type="text"]::placeholder {
+		color: white;
+	}
+	.navsection {
+	    background: none repeat scroll 0 0 #FF0090;
+	}
+	.navsection ul li:first-child {
+	    border-left: 0px solid #FF0090;
+	}
+	.navsection ul li {
+	    border-left: 1px solid #FF0090;
+	    border-right: 1px solid #FF0000;
+	}
+	.maincontent {
+	    background: #FF0090 none repeat scroll 0 0;
+	    border: 1px solid #FF0000;
+	    color: white;
+	}
+	.samepost h2, .about h2 {
+	    border-bottom: 2px solid #FF0000;
+	    color: #ffff;
+	}
+	.samepost h2 a {
+	    color: #ffff;
+	    text-decoration: none;
+	}
+	.samepost img {
+	    border: 1px solid #FF0000;
+	}
+	.readmore a {
+	    border: 1px solid #FF0000;
+	    color: #FF0000;
+	}
+	.readmore a:hover {
+		color: #FF0090;
+	}
+	.samesidebar h2 {
+	    background: #FF0000 none repeat scroll 0 0;
+	    border-bottom: 2px solid #FF0090;
+	    color: #ffff;
+	}
+	.sidebar {
+	    background: #FF0090 none repeat scroll 0 0;
+	}
+	.samesidebar ul li {
+	    border-bottom: 1px dashed #FF0000;
+	}
+	.samesidebar ul li a {
+	    color: #ffff;
+	}
+	.popular h3 a {
+	    color: #ffff;
+	}
+	.popular div {
+		color: #ffff;
+	}
+	.footersection {
+	    background: #FF0000;
+	    color: #ffff;
+	}
+	.footermenu ul li a {
+	    color: #FF0090;
+	}
+	input[type="submit"] {
+	    background: #FF0000 none repeat scroll 0 0;
+	    border: 1px solid #FF0000;
+	}
